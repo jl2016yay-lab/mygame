@@ -1,0 +1,40 @@
+{
+  "total_coins": 254,
+  "easy": [
+    {
+      "name": "easy peasy",
+      "score": 161
+    },
+    {
+      "name": "The best",
+      "score": 121
+    },
+    {
+      "name": "Sigh",
+      "score": 61
+    }
+  ],
+  "normal": [
+    {
+      "name": "Wx",
+      "score": 92
+    },
+    {
+      "name": "jojojojjojoj",
+      "score": 91
+    },
+    {
+      "name": "wx",
+      "score": 78
+    },
+    {
+      "name": "poop",
+      "score": 72
+    },
+    {
+      "name": " Wx",
+      "score": 60
+    }
+  ],
+  "hard": []
+}

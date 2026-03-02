@@ -1,0 +1,23 @@
+I want to create a game in Python using Pygame. 
+
+Here's the idea: the player controls a character (it can be a blue rectangle) that moves left and right using the < and > keys. 
+
+Chickens fall from the top of the screen (they can be white rectangles, or images if you have any).
+
+They fall faster and faster over time. The goal is to dodge them. 
+
+If the player collides with a chicken, the game ends and a "Game Over" screen appears. 
+
+The game window should be 600 x 800 pixels with a light green background. 
+
+Also, I want: 
+- Chickens to spawn at random x-positions at the top of the screen.
+- The player to start with a score of 0 that increases by 1 every second they stay alive.
+- The final score to appear on the Game Over screen. 
+- The game to restart if the player presses the R key on the Game Over screen. 
+
+Use clear structure with one class for the Player and one for the Chickens.
+
+No need for real images yet - just leave comments where images could go for future upgrades.
+
+When you finish the code, briefly explain how you structured it.  
